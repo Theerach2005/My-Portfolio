@@ -9,7 +9,7 @@ const projectsData = [
   {
     title: "Rent My Ride",
     href: "https://rentmyride-mu.vercel.app/", 
-    docHref: "/docs/rent-my-ride-report.pdf",
+    docHref: "/docs/rent-my-ride.pdf",
     description:
       "Rent My Ride is a modern web app for car rentals. Users can browse and filter cars by location, seats, and price; check availability for a date range; book and pay with Stripe.",
     tags: ["Next.js", "React", "TailwindCSS", "Supabase"],
