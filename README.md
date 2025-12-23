@@ -2,12 +2,8 @@
 
 A high-performance, visually immersive portfolio built with **Next.js**, **Tailwind CSS**, and **Framer Motion**. This site showcases my journey as a 3rd-year Computer Engineering student at Chulalongkorn University, specializing in Fullstack Development and Machine Learning.
 
-![Portfolio Preview](public/preview.png) *(Note: Replace with an actual screenshot of your site)*
-
 ## 🚀 Live Demo
 [View Live Site](https://your-deployment-link.vercel.app)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -20,8 +16,6 @@ A high-performance, visually immersive portfolio built with **Next.js**, **Tailw
 | **Icons** | Lucide React                                                               |
 | **Typeface** | Geist Sans & Mono                                                         |
 
----
-
 ## ✨ Features
 
 - **Clean URL Navigation:** Custom JavaScript scroll handling that navigates between sections (Home, Works) without adding ugly hashes (`#works`) to the URL.
@@ -29,8 +23,6 @@ A high-performance, visually immersive portfolio built with **Next.js**, **Tailw
 - **Glassmorphism Design:** A modern dark-theme aesthetic using backdrop blurs, cyan gradients, and glowing hover effects.
 - **Responsive Layout:** Fully optimized for mobile, tablet, and desktop viewing.
 - **Direct Mail Integration:** Uses the Gmail Compose API for a frictionless "Contact Me" experience.
-
----
 
 ## 📂 Project Structure
 
