@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Theerach",
-  description: "Created by Theerach Sae-Ngow",
+  description: "Portfolio of Theerach Sae-Ngow.",
 };
 
 export default function RootLayout({
